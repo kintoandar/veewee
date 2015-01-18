@@ -1,1 +1,1 @@
-#Veewee config files
+#Veewee templates
