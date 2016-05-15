@@ -1,7 +1,8 @@
-#### Veewee templates
+Veewee template
+=================
+`CentOS` template to get you started with `Veewee`
 
-This repository is related to my blog post.
+📝 Check out the [blogpost](https://blog.kintoandar.com/2015/01/veewee-packer-kickstarting-vms-into-gear.html) about it.
 
-You can read all about it here:
-
-https://blog.kintoandar.com/2015/01/veewee-packer-kickstarting-vms-into-gear.html
+# Credits
+Made with ♥️ by [kintoandar](https://blog.kintoandar.com/)
